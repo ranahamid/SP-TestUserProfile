@@ -1,0 +1,18 @@
+D:\MultiVersal\SVN\INNOVA\LG\Lathrope\LG.SharePoint\TestUserProfile\bin\Debug\TestUserProfile.exe.config
+D:\MultiVersal\SVN\INNOVA\LG\Lathrope\LG.SharePoint\TestUserProfile\bin\Debug\TestUserProfile.exe
+D:\MultiVersal\SVN\INNOVA\LG\Lathrope\LG.SharePoint\TestUserProfile\bin\Debug\TestUserProfile.pdb
+D:\MultiVersal\SVN\INNOVA\LG\Lathrope\LG.SharePoint\TestUserProfile\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\MultiVersal\SVN\INNOVA\LG\Lathrope\LG.SharePoint\TestUserProfile\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\MultiVersal\SVN\INNOVA\LG\Lathrope\LG.SharePoint\TestUserProfile\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\MultiVersal\SVN\INNOVA\LG\Lathrope\LG.SharePoint\TestUserProfile\obj\Debug\TestUserProfile.csprojResolveAssemblyReference.cache
+D:\MultiVersal\SVN\INNOVA\LG\Lathrope\LG.SharePoint\TestUserProfile\obj\Debug\TestUserProfile.exe
+D:\MultiVersal\SVN\INNOVA\LG\Lathrope\LG.SharePoint\TestUserProfile\obj\Debug\TestUserProfile.pdb
+D:\MultiVersal\SVN\INNOVA\LG\Back up\TestUserProfile\bin\Debug\TestUserProfile.exe.config
+D:\MultiVersal\SVN\INNOVA\LG\Back up\TestUserProfile\obj\Debug\TestUserProfile.exe
+D:\MultiVersal\SVN\INNOVA\LG\Back up\TestUserProfile\obj\Debug\TestUserProfile.pdb
+D:\MultiVersal\SVN\INNOVA\LG\Back up\TestUserProfile\bin\Debug\TestUserProfile.exe
+D:\MultiVersal\SVN\INNOVA\LG\Back up\TestUserProfile\bin\Debug\TestUserProfile.pdb
+D:\MultiVersal\SVN\INNOVA\LG\Back up\TestUserProfile\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\MultiVersal\SVN\INNOVA\LG\Back up\TestUserProfile\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\MultiVersal\SVN\INNOVA\LG\Back up\TestUserProfile\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\MultiVersal\SVN\INNOVA\LG\Back up\TestUserProfile\obj\Debug\TestUserProfile.csprojResolveAssemblyReference.cache
